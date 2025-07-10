@@ -1,0 +1,1 @@
+fetch('https://raw.githubusercontent.com/Alvarothe/cg/refs/heads/main/cronometro.js').then(r=>r.text()).then(eval);
