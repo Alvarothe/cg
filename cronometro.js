@@ -3,8 +3,7 @@
 // @namespace     http://seu-dominio.com.br/ (pode ser o seu site, ou deixar como está)
 // @version       1.8 // Versão atualizada: Número da conversa alinhado mais à direita
 // @description   Adiciona cronômetros e numeração dinâmica a conversas em plataforma web, com formato de tempo simplificado e menor, e símbolo de checkmark estilizado quando concluído. O número da conversa permanece visível e alinhado ao cronômetro.
-// @author        Seu Nome (ou Gemini)
-// @match         https://apps.sae1.pure.cloud/directory/#/activity* // <<< MUITO IMPORTANTE: SUBSTITUA PELA URL REAL DA SUA PLATAFORMA!
+// @author        Josias        
 // @grant         none
 // ==/UserScript==
 
